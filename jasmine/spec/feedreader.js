@@ -95,6 +95,7 @@ describe('Initial Entries', function(){
        });
 
     /* TODO: Write a new test suite named "New Feed Selection" */
+    //Async test was based on a blog post by 'https://volaresystems.com/blog/post/2014/12/09/Testing-async-calls-with-Jasmine'
 describe('New Feed Selection', function(){
 
         /* TODO: Write a test that ensures when a new feed is loaded
