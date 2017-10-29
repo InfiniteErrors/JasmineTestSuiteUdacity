@@ -11,4 +11,4 @@ The app itself displays a list of blog posts and then the Jasmine testing suite 
 2. In the root of source files, launch the 'index.html' file in your favorite browser.
 
 ## How to run the App online
-1. [CLICK HERE] (https://infiniteerrors.github.io/JasmineTestSuiteUdacity/#) to launch the home page.
+1. [CLICK HERE](https://infiniteerrors.github.io/JasmineTestSuiteUdacity/#) to launch the home page.
