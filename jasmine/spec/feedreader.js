@@ -76,10 +76,10 @@ $(function() {
     beforeEach(function(done) {
       loadFeed(0, function() {
         unloadedFeed = document.querySelector('.feed').innerHTML;
-      });
-      loadFeed(1, function() {
-        loadedFeed = document.querySelector('.feed').innerHTML;
-        done();
+        loadFeed(1, function() {
+          loadedFeed = document.querySelector('.feed').innerHTML;
+          done();
+        });
       });
     });
 
