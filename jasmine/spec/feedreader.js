@@ -80,7 +80,7 @@ $(function() {
       loadFeed(1, function() {
         loadedFeed = document.querySelector('.feed').innerHTML;
         done();
-      })
+      });
     });
 
     it('Make sure feed content has changed', function() {
